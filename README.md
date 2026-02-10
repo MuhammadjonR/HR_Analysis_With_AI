@@ -5,32 +5,32 @@
 
 
 
-##✨ Advanced Features & Functionalities
-###🔍 Hybrid Search Engine 
+## ✨ Advanced Features & Functionalities
+### 🔍 Hybrid Search Engine 
 (Semantic + Keyword) Combines BM25 keyword search with ChromaDB Vector embeddings for high-precision retrieval. It finds candidates not just by specific words, but by the conceptual meaning of their experience.
 
-###⚖️ Strict Weighted Scoring Algorithm
+### ⚖️ Strict Weighted Scoring Algorithm
 A rigorous evaluation system that assigns unique scores (0-100) based on weighted JD requirements (e.g., LLM mastery gets 40%, while soft skills get 10%). Includes decimal-point precision to eliminate ties between candidates.
 
-###📊 Dynamic Skill Gap Analysis
+### 📊 Dynamic Skill Gap Analysis
 Interactive Radar Charts visualize the mismatch between the job requirements and the candidate's profile. Quickly identify which technical areas a candidate needs to improve.
 
-###🧠 Deep AI Verdict & Critique
+### 🧠 Deep AI Verdict & Critique
 Provides a 5-paragraph technical assessment for each candidate. The AI acts as a senior engineer, explaining why the candidate's specific past projects (like "Fraud Detection") make them a good fit for your current role.
 
-###❓ Tailored Interview Question Generator
+### ❓ Tailored Interview Question Generator
 Generates 3-5 high-level technical questions uniquely customized for each candidate. If a candidate mentions "Kubernetes," the AI generates a scenario-based question specifically about their K8s experience.
 
-###📧 Automated Context-Aware Outreach
+### 📧 Automated Context-Aware Outreach
 Generates personalized interview invitations. Unlike generic templates, this AI mentions specific achievements from the candidate's CV, significantly increasing the candidate's response rate.
 
-###📑 Multi-Format PDF Reporting
+### 📑 Multi-Format PDF Reporting
 Generate and download professional executive summaries in PDF format. Perfect for sharing candidate evaluations with non-technical stakeholders or hiring managers.
 
-###🛡️ 100% Local Privacy & Security Powered by Ollama
+### 🛡️ 100% Local Privacy & Security Powered by Ollama
 All resume processing and AI analysis happen locally on your hardware. No sensitive candidate data is ever uploaded to the cloud or used for external model training.
 
-###📁 Intelligent CV Management & Indexing
+### 📁 Intelligent CV Management & Indexing
 Automated pipeline that cleans, splits, and indexes multi-page PDF resumes into a searchable vector database in seconds.
 
 ---
