@@ -46,21 +46,29 @@ git clone [https://github.com/MuhammadjonR/HR_Analysis_With_AI.git](https://gith
 cd AI-Talent-Scout-Pro
 
 ### 2. Set Up Virtual Environment
+```
 Bash
 python3 -m venv .venv
 source .venv/bin/activate  # On Windows: .venv\Scripts\activate
+```
 ### 3. Install Dependencies
+```
 Bash
 pip install -r requirements.txt
+```
 ### 4. Pull Required AI Models (Ollama)
+```
 Ensure you have Ollama installed and running:
 
 Bash
 ollama pull llama3
 ollama pull nomic-embed-text
+```
 ### 5. Run the Application
+```
 Bash
 streamlit run main.py
+```
 💡 Usage Guide
 Upload Resumes: Use the sidebar to upload candidate CVs in PDF format.
 
@@ -88,7 +96,7 @@ Distributed under the MIT License. See LICENSE for more information.
 
 #### 👨‍💻 Developer: Rakhmataliev Muhammadjon
 
-### 📧 Contact: (Email)[rakhmatalievm@gmail.com]
+### 📧 Contact: [rakhmatalievm@gmail.com](Email)
 
 
 ---
