@@ -42,7 +42,7 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/yourusername/AI-Talent-Scout-Pro.git](https://github.com/yourusername/AI-Talent-Scout-Pro.git)
+git clone [https://github.com/MuhammadjonR/HR_Analysis_With_AI.git](https://github.com/yourusername/AI-Talent-Scout-Pro.git)
 cd AI-Talent-Scout-Pro
 
 2. Set Up Virtual Environment
