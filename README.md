@@ -86,9 +86,9 @@ Open a Pull Request.
 ### 📝 License
 Distributed under the MIT License. See LICENSE for more information.
 
-## 👨‍💻 Developer: Rakhmataliev Muhammadjon
+#### 👨‍💻 Developer: Rakhmataliev Muhammadjon
 
-## 📧 Contact: [rakhmatalievm@gmail.com]
+### 📧 Contact: (Email)[rakhmatalievm@gmail.com]
 
 
 ---
