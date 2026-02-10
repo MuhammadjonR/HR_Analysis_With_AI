@@ -41,24 +41,24 @@
 ## 🚀 Installation & Setup
 
 ### 1. Clone the Repository
-```bash
-git clone [https://github.com/MuhammadjonR/HR_Analysis_With_AI.git](https://github.com/yourusername/AI-Talent-Scout-Pro.git)
+
+git clone [https://github.com/MuhammadjonR/HR_Analysis_With_AI.git](https://github.com/MuhammadjonR/HR_Analysis_With_AI.git)
 cd AI-Talent-Scout-Pro
 
-2. Set Up Virtual Environment
+### 2. Set Up Virtual Environment
 Bash
 python3 -m venv .venv
 source .venv/bin/activate  # On Windows: .venv\Scripts\activate
-3. Install Dependencies
+### 3. Install Dependencies
 Bash
 pip install -r requirements.txt
-4. Pull Required AI Models (Ollama)
+### 4. Pull Required AI Models (Ollama)
 Ensure you have Ollama installed and running:
 
 Bash
 ollama pull llama3
 ollama pull nomic-embed-text
-5. Run the Application
+### 5. Run the Application
 Bash
 streamlit run main.py
 💡 Usage Guide
@@ -83,12 +83,12 @@ Push to the Branch (git push origin feature/AmazingFeature).
 
 Open a Pull Request.
 
-📝 License
+### 📝 License
 Distributed under the MIT License. See LICENSE for more information.
 
-👨‍💻 Developer: Rakhmataliev Muhammadjon
+## 👨‍💻 Developer: Rakhmataliev Muhammadjon
 
-📧 Contact: [rakhmatalievm@gmail.com]
+## 📧 Contact: [rakhmatalievm@gmail.com]
 
 
 ---
