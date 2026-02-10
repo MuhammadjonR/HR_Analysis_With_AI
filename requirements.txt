@@ -1,0 +1,11 @@
+langchain 
+langchain-community 
+langchain-ollama 
+chromadb
+pypdf
+streamlit
+streamlit-extras
+pandas 
+plotly
+rank_bm25
+fpdf
