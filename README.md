@@ -7,26 +7,26 @@
 
 ## ✨ Key Features
 
-* **🔍 Hybrid Search Engine:** Combines **BM25 keyword search** with **ChromaDB Vector embeddings** for highly accurate candidate retrieval.
-* **⚖️ Strict Weighted Scoring:** A rigorous evaluation system that assigns scores (0-100) based on specific JD requirements (LLM, RAG, Experience, etc.).
-* **📊 Visual Analytics:** Interactive **Radar Charts** to compare the top 5 candidates' technical proficiency at a glance.
-* **📧 Personalized Outreach:** Automatically generates professional, candidate-specific interview invitation emails.
-* **📥 PDF Reports:** Export detailed analysis results into professional PDF documents for stakeholders.
-* **📁 Dynamic CV Management:** Easy upload interface with an automated pipeline for parsing and indexing PDF resumes.
+✨ Advanced Features & Functionalities
+🔍 Hybrid Search Engine (Semantic + Keyword) Combines BM25 keyword search with ChromaDB Vector embeddings for high-precision retrieval. It finds candidates not just by specific words, but by the conceptual meaning of their experience.
+
+⚖️ Strict Weighted Scoring Algorithm A rigorous evaluation system that assigns unique scores (0-100) based on weighted JD requirements (e.g., LLM mastery gets 40%, while soft skills get 10%). Includes decimal-point precision to eliminate ties between candidates.
+
+📊 Dynamic Skill Gap Analysis Interactive Radar Charts visualize the mismatch between the job requirements and the candidate's profile. Quickly identify which technical areas a candidate needs to improve.
+
+🧠 Deep AI Verdict & Critique Provides a 5-paragraph technical assessment for each candidate. The AI acts as a senior engineer, explaining why the candidate's specific past projects (like "Fraud Detection") make them a good fit for your current role.
+
+❓ Tailored Interview Question Generator Generates 3-5 high-level technical questions uniquely customized for each candidate. If a candidate mentions "Kubernetes," the AI generates a scenario-based question specifically about their K8s experience.
+
+📧 Automated Context-Aware Outreach Generates personalized interview invitations. Unlike generic templates, this AI mentions specific achievements from the candidate's CV, significantly increasing the candidate's response rate.
+
+📑 Multi-Format PDF Reporting Generate and download professional executive summaries in PDF format. Perfect for sharing candidate evaluations with non-technical stakeholders or hiring managers.
+
+🛡️ 100% Local Privacy & Security Powered by Ollama, all resume processing and AI analysis happen locally on your hardware. No sensitive candidate data is ever uploaded to the cloud or used for external model training.
+
+📁 Intelligent CV Management & Indexing Automated pipeline that cleans, splits, and indexes multi-page PDF resumes into a searchable vector database in seconds.
 
 ---
-
-## 📸 Screenshots
-
-| Dashboard Overview | Technical Analysis |
-| :--- | :--- |
-| ![Main Interface](img/Main.png) | ![Analysis Results](img/Analysis.png) |
-
-| Skill Comparison | Automated Email Drafts |
-| :--- | :--- |
-| ![Radar Chart](img/Radar.png) | ![Report Generation](img/Report.png) |
-
-
 
 Visual Showcase
 <div align="center"> <table> <tr> <td width="50%"><b>🖥 Dashboard Overview</b></td> <td width="50%"><b>🔍 Technical Analysis</b></td> </tr> <tr> <td><img src="img/Main.png" width="100%"></td> <td><img src="img/Analysis.png" width="100%"></td> </tr> <tr> <td width="50%"><b>📈 Skill Comparison</b></td> <td width="50%"><b>📄 Report Generation</b></td> </tr> <tr> <td><img src="img/Radar.png" width="100%"></td> <td><img src="img/Report.png" width="100%"></td> </tr> </table> </div>
