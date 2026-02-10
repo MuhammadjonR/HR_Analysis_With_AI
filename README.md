@@ -1,4 +1,5 @@
-# 🚀 AI Talent Scout Pro
+<p align="center">🚀 AI Talent Scout Pro</p>
+<p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" /> <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" /> <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" /> </p>
 
 **AI Talent Scout Pro** is a cutting-edge, AI-powered Applicant Tracking System (ATS) designed to streamline the recruitment process. By leveraging **RAG (Retrieval-Augmented Generation)** and **Llama 3** models, it intelligently analyzes resumes against Job Descriptions (JD) to provide deep technical insights and rankings.
 
@@ -94,9 +95,8 @@ Open a Pull Request.
 ### 📝 License
 Distributed under the MIT License. See LICENSE for more information.
 
-#### 👨‍💻 Developer: Rakhmataliev Muhammadjon
+👨‍💻 Developer & Contact
+<p align="center"> <b>Rakhmataliev Muhammadjon</b>
 
-### 📧 Contact: [rakhmatalievm@gmail.com](Email)
 
-
----
+<a href="mailto:rakhmatalievm@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> </p>
